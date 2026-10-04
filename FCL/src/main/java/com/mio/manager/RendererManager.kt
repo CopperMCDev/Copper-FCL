@@ -14,6 +14,7 @@ object RendererManager {
     lateinit var RENDERER_ZINK: Renderer
     lateinit var RENDERER_FREEDRENO: Renderer
     lateinit var RENDERER_NGGL4ES: Renderer
+    lateinit var RENDERER_MOBILEGLUES: Renderer
     private var isInit = false
 
     @JvmStatic
