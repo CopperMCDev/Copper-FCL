@@ -138,6 +138,7 @@ object RendererManager {
         rendererList.add(RENDERER_VGPU)
         rendererList.add(RENDERER_ZINK)
         rendererList.add(RENDERER_FREEDRENO)
+        rendererList.add(RENDERER_MOBILEGLUES)
         rendererList.addAll(RendererPlugin.rendererList)
     }
 
