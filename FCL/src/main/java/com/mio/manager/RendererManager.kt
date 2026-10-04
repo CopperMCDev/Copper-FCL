@@ -111,6 +111,20 @@ object RendererManager {
             "26.3-snapshot-3",
             displayMaxMCver = "26.2"
         )
+        
+        RENDERER_MOBILEGLUES = Renderer(
+            "SFPEW/MobileGlues",
+            context.getString(R.string.settings_fcl_renderer_virgl),
+            "libmobileglues.so",
+            "libEGL_angle.so",
+            "libSimpleFPEWrapper.so",
+            null,
+            null,
+            Renderer.ID_MOBILEGLUES,
+            "",
+            "26.3-snapshot-3",
+            displayMaxMCver = "26.2"
+        )
 
         RendererPlugin.init(context)
         addRenderer()
