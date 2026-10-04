@@ -1042,7 +1042,7 @@
     <string name="settings_fcl_renderer_zink" translatable="false">Kopper Zink (OpenGL 4.6)</string>
     <string name="settings_fcl_renderer_freedreno">Freedreno (OpenGL 4.6, only support adreno616-a660)</string>
     <string name="settings_fcl_renderer_nggl4es">Krypton Wrapper (OpenGL 3.1+)</string>
-    <string name="settings_fcl_renderer_mobildglues">MobileGLues/SFPEW (OpenGL 4.0)</string>
+    <string name="settings_fcl_renderer_mobileglues">MobileGLues/SFPEW (OpenGL 4.0)</string>
         
     <string name="settings_fcl_driver">Vulkan Driver</string>
     <string name="settings_fcl_driver_desc">Choose the Vulkan driver implementation.</string>
