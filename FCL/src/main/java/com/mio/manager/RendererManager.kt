@@ -114,7 +114,7 @@ object RendererManager {
         
         RENDERER_MOBILEGLUES = Renderer(
             "SFPEW/MobileGlues",
-            context.getString(R.string.settings_fcl_renderer_virgl),
+            context.getString(R.string.settings_fcl_renderer_mobileglues),
             "libmobileglues.so",
             "libEGL_angle.so",
             "libSimpleFPEWrapper.so",
