@@ -117,7 +117,7 @@ object RendererManager {
             context.getString(R.string.settings_fcl_renderer_mobileglues),
             "libmobileglues.so",
             "libSimpleFPEWrapper.so",
-            "",
+            "libEGL.so",
             null,
             null,
             Renderer.ID_MOBILEGLUES,
