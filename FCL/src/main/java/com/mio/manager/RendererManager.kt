@@ -118,6 +118,7 @@ object RendererManager {
             "libmobileglues.so",
             "libEGL_angle.so",
             "libSimpleFPEWrapper.so",
+            "libGLESv2_angle.so",
             null,
             null,
             Renderer.ID_MOBILEGLUES,
